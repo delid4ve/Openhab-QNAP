@@ -1,6 +1,14 @@
 Downloads for QPKgs
 password: openhab
 
+Settings:
+                  Stable      MileStone     Snapshot
+Http:             3354        3355          3356
+Https:            3283        3284          3285
+ssh:              8101        8102          8103
+shared Folder:    OpenHab     OpenHabM      OpenHabS   (Not yet implemented)
+
+
 SNAPSHOT
   3.1.0
     #2350
