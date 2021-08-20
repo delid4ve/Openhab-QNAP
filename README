@@ -3,23 +3,21 @@ password: openhab
 Integrates Zulu natively
 
 Settings:
-                  Stable      MileStone     Snapshot
-Http:             3354        3355          3356
-Https:            3283        3284          3285
-ssh:              8101        8102          8103
-shared Folder:    OpenHab     OpenHabM      OpenHabS   (Not yet implemented)
+                  Stable      MileStone       Snapshot
+Http:             3354        3355            3356
+Https:            3283        3284            3285
+ssh:              8101        8102            8103
+shared Folder:    OpenHab3    OpenHab3-Mile   OpenHab3-SNAP  
 
 
 SNAPSHOT
   3.1.0
     #2350
-      https://www.myqnapcloud.com/smartshare/6ch49k987p84o2572823xw2c_6wtA53v
-      Expiry: 2021/05/29 17:14
+      https://www.myqnapcloud.com/smartshare/734jgl6i4l6p701045327693_6zFRMeV
       
 STABLE
-  3.0.2
-    https://www.myqnapcloud.com/smartshare/6ch49k987p84o2572823xw2c_6ifZ10R
-    Expiry: 2021/05/29 17:19
+  3.1.0
+      https://www.myqnapcloud.com/smartshare/734jgl6i4l6p701045327693_6bf0saB
     
 Credit to Qoolbox of QNAPClub for his work over the years on this.  
 I have taken this project on for updates 'when required' for fixes etc.
